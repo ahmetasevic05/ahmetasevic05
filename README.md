@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ahmetasevic05
+- 👋 Hi, I’m Ensar Ahmetašević, a student who is finishing his senior year of high school.
 - 👀 I’m interested in front-end development
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking forward to learning new skills and different languages
+- 💞️ I’m looking forward to learning new skills and different programming languages
 - 📫 My e-mail: ensar.ahmetasevic@gmail.com
 
 <!---
